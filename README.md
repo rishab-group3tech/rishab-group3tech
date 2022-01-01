@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new technologies.
 - 🌱 I’m currently learning Python for data analytcis.
 - 💞️ I’m looking to collaborate on data analytics
-- 📫 How to reach me of'coruse via email.
+- 📫 How to reach me??? of'coruse via email.
 
 <!---
 rishab-group3tech/rishab-group3tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
